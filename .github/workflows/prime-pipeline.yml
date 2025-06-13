@@ -1,4 +1,4 @@
-name: new-node-app
+name: workflow_node_app
 
 on: push
 
